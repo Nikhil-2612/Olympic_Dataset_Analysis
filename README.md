@@ -26,12 +26,15 @@ Medal - Gold, Silver, Bronze, or NA
 
 1. Import the required libraries: Start by importing essential Python libraries like pandas, NumPy, and Matplotlib or Seaborn for data manipulation, analysis, and visualization.
 
-2. Dataset Cleaning: The dataset might contain inconsistencies, duplicates, or missing values. The cleaning phase involves:
+2. Dataset Cleaning: The dataset might contain inconsistencies, duplicates, or missing values.
+   The cleaning phase involves:
+   Identifying and handling duplicates.
+   Handling missing or null values through imputation or removal.
+   Ensuring data consistency and integrity.
 
-Identifying and handling duplicates.
-Handling missing or null values through imputation or removal.
-Ensuring data consistency and integrity.
-Exploratory Data Analysis (EDA): EDA is the core of this project, where you will uncover insights and patterns in the Olympic dataset. The key steps involved in the EDA process include:
+Exploratory Data Analysis (EDA): EDA is the core of this project, where you will uncover insights and patterns in the Olympic dataset.
+
+The key steps involved in the EDA process include:
 
 3. Descriptive statistics: Calculate basic statistics such as mean, median, standard deviation, etc., for relevant columns.
   
